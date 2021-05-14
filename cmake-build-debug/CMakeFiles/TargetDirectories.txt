@@ -1,3 +1,0 @@
-/home/hob/Desktop/Code/C++/vec3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/hob/Desktop/Code/C++/vec3D/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/hob/Desktop/Code/C++/vec3D/cmake-build-debug/CMakeFiles/vec3D.dir

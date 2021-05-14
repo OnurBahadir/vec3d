@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/vec3D.dir/main.cpp.o CMakeFiles/vec3D.dir/vec3D.cpp.o  -o vec3D 
