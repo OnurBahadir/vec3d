@@ -1,8 +1,8 @@
 # VEC3D
 
 ```cpp
-vec3D ivec(3,4,0);
-double m=ivec.Magnitude();   // m=5
-ivec.Normalize();   // ivec(0.6 , 0.8, 0.0)
+vec3D iVec(3,4,0);
+double m=iVec.Magnitude();   // m=5
+iVec.Normalize();   // iVec(0.6 , 0.8, 0.0)
 
 ```
